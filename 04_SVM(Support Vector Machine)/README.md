@@ -7,7 +7,8 @@ This folder contains implementations of Support Vector Machine for both classifi
 ## 📂 Contents
 
 - 01_SVM_Classification.ipynb  
-- 02_SVM_Regression.ipynb  
+- 02_SVM_Regression.ipynb 
+- 03_svm_visulizer 
 
 ---
 
